@@ -1,0 +1,8 @@
+{
+  "name": "FriendTalk",
+  "description": "A vibrant mobile-first chat application for connecting with friends instantly, featuring AI-powered friend simulations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
